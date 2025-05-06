@@ -8,8 +8,8 @@
     {
       "kind": "git",
       "repository": "git@github.com:ccpgames/carbon-vcpkg-registry.git",
-      "baseline": "9332c0f3559986c2d8671dbf79510d094844ec13",
-      "packages": ["carbon-*", "greenlet", "python3", "ccp-debug-info"]
+      "baseline": "63cf2b78e9b9a4b0fbf36f838312a00953b2e742",
+      "packages": ["carbon-*", "greenlet", "python3-prebuilt", "ccp-debug-info"]
     }
   ]
 }
