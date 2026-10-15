@@ -7,12 +7,19 @@
   "registries": [
     {
       "kind": "git",
+      "repository": "https://github.com/ccptoebeans/vcpkg-registry.git",
+      "baseline": "77b22bd15993c2e9c489b281ad780de829be8fd8",
+      "packages": [
+        "carbon-core"
+      ]
+    },
+    {
+      "kind": "git",
       "repository": "https://github.com/carbonengine/vcpkg-registry.git",
       "baseline": "d431d05377ae8d620c644c49c3f4d1bd974cee18",
       "packages": [
         "python3",
         "ccp-debug-info",
-        "carbon-core",
         "greenlet",
         "tracy"
       ]
